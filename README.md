@@ -1,0 +1,2 @@
+# SgPropriedadeCodigoCompleto
+ codigo completo SgPropriedade
