@@ -1,2 +1,2 @@
 # SgPropriedadeCodigoCamadaImtrmediaria
- codigo camada de reghras de negocio SgPropriedade
+ codigo camada de regras de negócio SgPropriedade
