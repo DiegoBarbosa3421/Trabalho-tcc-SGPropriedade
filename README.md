@@ -1,2 +1,2 @@
-# SgPropriedadeCodigoCompleto
- codigo completo SgPropriedade
+# SgPropriedadeCodigoCamadaImtrmediaria
+ codigo camada de reghras de negocio SgPropriedade
